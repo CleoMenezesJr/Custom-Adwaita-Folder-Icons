@@ -7,7 +7,7 @@ A repository for custom Adwaita folders to help organize directories.
 So that you don't end up accidentally deleting or moving the file, I recommend cloning the icons to the path:
 
 ```
-/home/cleomenezesjr/.local/share/icons
+/home/$HOME/.local/share/icons
 ```
 ![screenshot](Screenshots/example.gif)
 
