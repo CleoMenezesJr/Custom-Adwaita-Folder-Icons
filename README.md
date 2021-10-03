@@ -1,5 +1,5 @@
 # Custom Adwaita folder icons
-
+)
 A repository for custom Adwaita folders to help organize directories.
 
 ## How to use
@@ -9,10 +9,13 @@ So that you don't end up accidentally deleting or moving the file, I recommend c
 ```
 ~/.local/share/icons
 ```
+
 ![screenshot](Screenshots/example.gif)
+![screenshot](Screenshots/pack.gif)
+
 
 ## Screenshots
-
+![screenshot](Screenshots/ex1.png)
 ![screenshot](Screenshots/ex1.png)
 ![screenshot](Screenshots/ex3.png)
 ![screenshot](Screenshots/ex2.png)
