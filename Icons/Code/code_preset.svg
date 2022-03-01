@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.32026165"
-     inkscape:cx="736.89747"
-     inkscape:cy="502.71395"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="515.20374"
+     inkscape:cy="292.7294"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -234,7 +234,10 @@
          transform="matrix(4,0,0,4,16.000006,-6796)"
          style="display:inline;enable-background:new"
          id="g2587"
-         inkscape:label="#g3169">
+         inkscape:label="#g3169"
+         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code.png"
+         inkscape:export-xdpi="18.000002"
+         inkscape:export-ydpi="18.000002">
         <title
            id="title2569">folder</title>
         <rect
@@ -296,9 +299,9 @@
          id="path2589"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscccsccc"
-         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_small.png"
-         inkscape:export-xdpi="960"
-         inkscape:export-ydpi="960"
+         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_64x64.png"
+         inkscape:export-xdpi="139.63637"
+         inkscape:export-ydpi="139.63637"
          transform="translate(0,-852)" />
       <path
          id="path2591"
@@ -306,9 +309,9 @@
          style="display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient2613);fill-opacity:1;stroke:url(#linearGradient2615);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc"
-         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_small.png"
-         inkscape:export-xdpi="960"
-         inkscape:export-ydpi="960" />
+         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_64x64.png"
+         inkscape:export-xdpi="139.63637"
+         inkscape:export-ydpi="139.63637" />
     </g>
     <g
        fill="#2e3436"
@@ -332,9 +335,9 @@
        id="g1267-3"
        transform="matrix(2.0000006,0,0,2.0000006,557.97944,101.99999)"
        style="fill:#428ce6;fill-opacity:1"
-       inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_small.png"
-       inkscape:export-xdpi="960"
-       inkscape:export-ydpi="960">
+       inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_64x64.png"
+       inkscape:export-xdpi="139.63637"
+       inkscape:export-ydpi="139.63637">
       <path
          d="m 10,4 v 1 c 0,0.257812 0.128906,0.527344 0.3125,0.71875 L 12.5625,8 l -2.25,2.28125 C 10.128906,10.472656 10,10.742188 10,11 v 1 h 1 c 0.308594,0 0.550781,-0.08984 0.75,-0.28125 L 15.40625,8 11.75,4.28125 C 11.550781,4.089844 11.308594,4 11,4 Z m 0,0"
          id="path1263-6"
