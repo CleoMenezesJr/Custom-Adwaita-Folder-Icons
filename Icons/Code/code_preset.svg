@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.2810466"
-     inkscape:cx="515.20374"
-     inkscape:cy="292.7294"
+     inkscape:zoom="5.1241864"
+     inkscape:cx="579.40905"
+     inkscape:cy="126.06879"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -35,7 +35,7 @@
      inkscape:current-layer="use6465"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2209" />
@@ -43,42 +43,42 @@
        position="358,320"
        orientation="0,-1"
        id="guide2818"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="330.8748,160"
        orientation="0,-1"
        id="guide2820"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="358,160"
        orientation="1,0"
        id="guide2822"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="166,320"
        orientation="1,0"
        id="guide2824"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="584,490"
        orientation="0,-1"
        id="guide4538"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="584,474"
        orientation="0,-1"
        id="guide4540"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="564,490"
        orientation="1,0"
        id="guide4542"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        position="584,474"
        orientation="1,0"
        id="guide4544"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2198">
@@ -235,7 +235,7 @@
          style="display:inline;enable-background:new"
          id="g2587"
          inkscape:label="#g3169"
-         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code.png"
+         inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_default.png"
          inkscape:export-xdpi="18.000002"
          inkscape:export-ydpi="18.000002">
         <title
@@ -314,26 +314,68 @@
          inkscape:export-ydpi="139.63637" />
     </g>
     <g
-       fill="#2e3436"
-       id="g1267"
-       transform="matrix(20,0,0,20,102,200)"
-       style="fill:#428ce6;fill-opacity:1"
+       id="g6386"
+       transform="matrix(0.79214125,0,0,0.85512425,54.458964,52.155288)"
        inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         d="m 10,4 v 1 c 0,0.257812 0.128906,0.527344 0.3125,0.71875 L 12.5625,8 l -2.25,2.28125 C 10.128906,10.472656 10,10.742188 10,11 v 1 h 1 c 0.308594,0 0.550781,-0.08984 0.75,-0.28125 L 15.40625,8 11.75,4.28125 C 11.550781,4.089844 11.308594,4 11,4 Z m 0,0"
-         id="path1263"
-         style="fill:#428ce6;fill-opacity:1" />
-      <path
-         d="M 6,4 V 5 C 6,5.257812 5.871094,5.527344 5.6875,5.71875 L 3.4375,8 l 2.25,2.28125 C 5.871094,10.472656 6,10.742188 6,11 v 1 H 5 C 4.691406,12 4.449219,11.910156 4.25,11.71875 L 0.59375,8 4.25,4.28125 C 4.449219,4.089844 4.691406,4 5,4 Z m 0,0"
-         id="path1265"
-         style="fill:#428ce6;fill-opacity:1" />
+       inkscape:export-xdpi="18.000002"
+       inkscape:export-ydpi="18.000002">
+      <g
+         fill="#474747"
+         id="g884"
+         transform="matrix(10.586813,0,0,10.586813,103.50722,275.30552)"
+         style="fill:#428ce6;fill-opacity:1">
+        <path
+           d="M 11.644531,2.707031 10.230469,1.292969 3.523438,8 10.230469,14.707031 11.644531,13.292969 6.351562,8 Z m 0,0"
+           id="path874"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,15 h 1 v -1 h -1 z m 0,0"
+           id="path876"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,2 h 1 V 1 h -1 z m 0,0"
+           id="path878"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,3 c 0.554688,0 1,-0.449219 1,-1 0,-0.554688 -0.445312,-1 -1,-1 -0.554688,0 -1,0.445312 -1,1 0,0.550781 0.445312,1 1,1 z m 0,0"
+           id="path880"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,15 c 0.554688,0 1,-0.449219 1,-1 0,-0.554688 -0.445312,-1 -1,-1 -0.554688,0 -1,0.445312 -1,1 0,0.550781 0.445312,1 1,1 z m 0,0"
+           id="path882"
+           style="fill:#428ce6;fill-opacity:1" />
+      </g>
+      <g
+         fill="#474747"
+         id="g884-3"
+         transform="matrix(-10.586813,0,0,-10.586813,420.49252,444.69453)"
+         style="fill:#428ce6;fill-opacity:1">
+        <path
+           d="M 11.644531,2.707031 10.230469,1.292969 3.523438,8 10.230469,14.707031 11.644531,13.292969 6.351562,8 Z m 0,0"
+           id="path874-6"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,15 h 1 v -1 h -1 z m 0,0"
+           id="path876-7"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,2 h 1 V 1 h -1 z m 0,0"
+           id="path878-5"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,3 c 0.554688,0 1,-0.449219 1,-1 0,-0.554688 -0.445312,-1 -1,-1 -0.554688,0 -1,0.445312 -1,1 0,0.550781 0.445312,1 1,1 z m 0,0"
+           id="path880-3"
+           style="fill:#428ce6;fill-opacity:1" />
+        <path
+           d="m 10.9375,15 c 0.554688,0 1,-0.449219 1,-1 0,-0.554688 -0.445312,-1 -1,-1 -0.554688,0 -1,0.445312 -1,1 0,0.550781 0.445312,1 1,1 z m 0,0"
+           id="path882-5"
+           style="fill:#428ce6;fill-opacity:1" />
+      </g>
     </g>
     <g
        fill="#2e3436"
        id="g1267-3"
-       transform="matrix(2.0000006,0,0,2.0000006,557.97944,101.99999)"
+       transform="matrix(1.3529864,0,0,1.3529864,563.15555,107.1761)"
        style="fill:#428ce6;fill-opacity:1"
        inkscape:export-filename="/var/home/cleomenezesjr/Projects/Custom-Adwaita-Folder-Icons/Icons/Code/code_64x64.png"
        inkscape:export-xdpi="139.63637"
